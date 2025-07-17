@@ -1,2 +1,2 @@
-# aviatrix-predictor-
+# avitrix-predictor-
 Aviatrix Predictor Pro Web App
